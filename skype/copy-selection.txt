@@ -1,0 +1,20 @@
+[13/12/2013 09:01:03] Steve Gledhill (PC Resolver) Gledhill: I'm here until 12 cet
+[13/12/2013 09:01:06] Ewa Kasiak: ok
+[13/12/2013 09:03:28] Steve Gledhill (PC Resolver) Gledhill: Sorry I'm here until 2. I'm on my phone and had finger trouble
+[13/12/2013 09:06:51] Ewa Kasiak: ok
+[13/12/2013 09:29:08] Ovidiu Craciun: we can do a meeting from 11:20 or 11:30... sounds good?
+[13/12/2013 09:29:17] Ovidiu Craciun: I assume it'll be 10-15minutes?
+[13/12/2013 09:29:28] Ovidiu Craciun: so Steve can leave in time
+[13/12/2013 09:31:34] Ewa Kasiak: actually Steve has time till 2
+[13/12/2013 09:31:45] Ewa Kasiak: we can do right after you and Janusz will sort out BSC server
+[13/12/2013 09:31:49] Ewa Kasiak: so let us know
+[13/12/2013 09:31:51] Ewa Kasiak: im here
+[13/12/2013 10:49:46] Janusz Jezowicz: can we have  chat now ?
+[13/12/2013 10:49:49] Janusz Jezowicz: (call )
+[13/12/2013 10:49:52] Janusz Jezowicz: ovi and me are ready
+[13/12/2013 10:50:02] Steve Gledhill (PC Resolver) Gledhill: hi
+[13/12/2013 10:50:18] Ewa Kasiak: yes
+[13/12/2013 10:50:20] *** Group call, duration 05:33 ***
+[13/12/2013 10:56:28] Ewa Kasiak: Steve here's the link to new to-do https://speedcheckerltd.basecamphq.com/projects/9718148-server-maintenance/todo_items/176779851/comments
+[13/12/2013 10:56:35] Steve Gledhill (PC Resolver) Gledhill: ty
+
